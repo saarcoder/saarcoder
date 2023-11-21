@@ -4,5 +4,4 @@
 - TYPO3 integrator experience.
 - Self-taught JS frontend dev. 
 - Currently on software engineering path at [Coyotiv School of Software Engineering](https://www.coyotiv.com/school-of-software-engineering/full-time/) for a deep dive into Node.js and Vue.
-- Hi De Long!
 
